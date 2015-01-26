@@ -83,7 +83,8 @@ public class FactBook {
                     "enemy soldier with a longbow. “Mad Jack” insisted on going into battle armed with " +
                     "both a medieval bow and a claymore sword.",
             "A U.S. park ranger named Roy C. Sullivan held the record for being struck by lightning " +
-                    "the most times, having been struck — and surviving — seven times between 1942 and 1977. He died of a self-inflicted gunshot in 1983.",
+                    "the most times, having been struck — and surviving — seven times between 1942 and 1977. " +
+                    "He died of a self-inflicted gunshot in 1983.",
             "The longest musical performance in history is currently taking place in the church of " +
                     "St. Burchardi in Halberstadt, Germany. The performance of John Cage’s “Organ²/ASLSP " +
                     "(As Slow As Possible)” started on Sept. 5, 2001, and is set to finish in 2640. " +
@@ -104,7 +105,47 @@ public class FactBook {
                     "forced a school to close.",
             "The Romans used to clean and whiten their teeth with urine.",
             "There are around 60,000 miles of blood vessels in the human body. If you took them all " +
-                    "out and laid them end to end, they’d stretch around the world more than twice."
+                    "out and laid them end to end, they’d stretch around the world more than twice.",
+            "Sea otters hold hands when they sleep to keep from drifting apart.",
+            "When you were born, you were, for a moment, the youngest person on earth.",
+            "The elements that we are composed of were formed in the interiors of collapsing stars. We are all made of star dust.",
+            "Cows have best friends.",
+            "A prison in Washington pairs up “death row” shelter cats with select inmates as part " +
+                    "of a rehabilitation program. It seems to be a pretty wonderful thing for both the inmates and the cats.",
+            "Blind people smile even though they’ve never seen anyone else smile.",
+            "Turtles can breathe through their butts.",
+            "The Beatles used the word “love” 613 times in their songs.",
+            "Squirrels plant thousands of new trees each year simply by forgetting where they put their acorns.",
+            "Macaques in Japan use coins to buy vending machine snacks.",
+            "A BBC News program broadcast in 1957 ended claiming that spaghetti grew on trees on a " +
+                    "farm in Switzerland. Many viewers believed the report and called the BBC asking " +
+                    "how to grow their own trees. Their response: 'Place a sprig of spaghetti in a " +
+                    "tin of tomato sauce and hope for the best.'",
+            "Norway knighted a penguin.",
+            "In China, killing a Panda is punishable by death.",
+            "Rats laugh when tickled.",
+            "The voices of Mickey Mouse and Minnie Mouse got married in real life.",
+            "Spiders can’t fly.",
+            "Sweden has a rabbit show jumping competition called Kaninhoppning.",
+            "Gentoo penguins propose to their lifemates with a pebble.",
+            "Dolphins have names for each other.",
+            "Kissing burns 2 calories a minute. Undressing burns 8.",
+            "Puffins mate for life. They make their homes on cliff sides and even leave some separate room for their toilet.",
+            "The Kingdom of Bhutan uses “Gross National Happiness” as an important national measurement.",
+            "When playing with female puppies, male puppies will often let them win, even if they have a physical advantage.",
+            "Pigs’ orgasms last for 30 minutes.",
+            "A study measuring the effects of music found that cows produce more milk when listening to soothing music. " +
+                    "They produce the most when listening to R.E.M’s \"Everybody Hurts\".",
+            "There is a program that makes prison inmates responsible for training and raising seeing-eye dogs. " +
+                    "Many reported that they felt like they were making amends for their past actions by working with the puppies.",
+            "Google, the periodic table, the structure of our DNA, and “Yesterday” by the Beatles " +
+                    "are all ideas that were conceived in dreams.",
+            "There’s a superhero with a hearing aid called ‘Blue Ear’. He was created by Marvel Comics " +
+                    "to encourage a little boy to wear his own!",
+            "Good news is more likely to be shared through social media than bad news (wink wink, nudge nudge)."
+
+
+
     };
 
     // Method (abilities: things the object can do)
